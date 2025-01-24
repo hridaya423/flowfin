@@ -93,7 +93,7 @@ export default function LoginPage() {
         onClick={handleDemoLogin}
         type="button"
         disabled={loading}
-        className="w-full bg-gradient-to-r from-yellow-500 via-orange-500 to-red-500 text-white py-4 px-6 rounded-lg text-lg font-medium hover:opacity-90 disabled:opacity-50 transition-opacity"
+        className="w-full bg-gradient-to-r from-blue-500 via-purple-500 to-green-500 text-white py-4 px-6 rounded-lg text-lg font-medium hover:opacity-90 disabled:opacity-50 transition-opacity"
       >
         {loading ? 'Signing in...' : 'Try Demo Account'}
       </button>
