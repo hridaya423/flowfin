@@ -95,7 +95,7 @@ export default function LandingPage() {
             <p className="relative text-lg text-gray-400 mb-8">
               Join thousands of users who are taking control of their financial future.
             </p>
-            <Link href="/signup" className="relative">
+            <Link href="/auth/login" className="relative">
               <Button className="text-lg bg-gradient-to-r from-blue-500 via-purple-500 to-pink-500 text-white px-8 py-6 rounded-lg hover:opacity-90 transition-all">
                 Start Your Journey <ArrowRight className="ml-2" />
               </Button>
