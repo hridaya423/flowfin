@@ -2,7 +2,7 @@
 
 A full-stack financial management application built with Next.js, Supabase, and Tailwind CSS.
 
-![Demo image]()
+![Demo image](https://cloud-bs0lxq7a0-hack-club-bot.vercel.app/0image.png)
 
 ## Features
 
